@@ -3,8 +3,8 @@
  * bit 6 of port C.Write an AVR C program to monitor the door sensor and,
    when it opens, turns on the LED without changing the state of other pins
  *
- * Created: 12-Jun-20 11:17:25 PM
- * Author : Suffiyan
+ * Created: 17-Aprial-2022 06:20:30 PM
+ * Author : Pradeep
  */ 
 
 #include <avr/io.h>
