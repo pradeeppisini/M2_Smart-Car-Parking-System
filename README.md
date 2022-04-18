@@ -6,4 +6,4 @@
 
 # Quality Grade ![Quality Grade](https://api.codiga.io/project/32839/status/svg)
 
-# Unit testing [![CI](https://github.com/pradeeppisini/m1_march_Ecart-shopping/actions/workflows/blank.yml/badge.svg)](https://github.com/pradeeppisini/m1_march_Ecart-shopping/actions/workflows/blank.yml)
+# Unit testing [![CI](https://github.com/pradeeppisini/m2_march_atmega328p-Door-sensor/actions/workflows/blank.yml/badge.svg)](https://github.com/pradeeppisini/m2_march_atmega328p-Door-Sensor/actions/workflows/blank.yml)
