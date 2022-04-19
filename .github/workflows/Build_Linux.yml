@@ -1,4 +1,4 @@
-name: Bulid CI - Linux
+name: Bulid CI - Windows
 
 on:
   push:
@@ -9,7 +9,7 @@ on:
 jobs:
   build:
 
-    runs-on: Linux-latest
+    runs-on: Windows-latest
 
     steps:
     - uses: actions/checkout@v3
