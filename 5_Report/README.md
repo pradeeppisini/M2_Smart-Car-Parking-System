@@ -11,9 +11,19 @@ Based on the security system, we can able to modify the type of alert we get onc
 
 # COMPONENTS AND SUPPLIES:
 1.atmega328p 
+
 2.Ultrasonic Sensor - HC-SR04 (Generic)
+
 3.LED bulb or Buzzer
+
 4.Connecting Wires
+
 5.Resistors
+
 6.5V Rail
+
 7.Switch
+
+# ADVANTAGES:
+1. A door sensor lets you know if someone enters your house.
+2. You can also set it to emit an alarm that deters someone from entering.
