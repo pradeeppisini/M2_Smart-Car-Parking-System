@@ -12,10 +12,12 @@
 
 # atmega328p Door Sensor
 
-# In Action
+# In Action 
+# OFF Condition:
+![OFF Condition](https://user-images.githubusercontent.com/101619680/164059945-7e0fc8ea-7887-434c-9610-427de65279e3.png)
 
-# OFF MODE                                                                 
- ![OFF mode ](https://user-images.githubusercontent.com/101619680/163840606-d55226e7-5264-4a5c-a1f6-e360fedef71e.png)
+# ON Condition:
+![ON Condition](https://user-images.githubusercontent.com/101619680/164060116-89d296cd-ed18-4446-aad8-d676202b788c.png)
 
-# ON MODE
-![ON mode](https://user-images.githubusercontent.com/101619680/163840793-a8f5cdd9-1c8f-4fd1-9278-a7a44528c5a3.png)
+
+
