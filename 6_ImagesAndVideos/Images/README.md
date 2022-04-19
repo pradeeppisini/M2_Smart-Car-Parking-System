@@ -1,7 +1,8 @@
-# 1 OFF Mode
-![OFF mode ](https://user-images.githubusercontent.com/101619680/163847037-c0312822-a3b2-4137-9ec9-21b85a9a0e1d.png)
+# OFF Mode
+![OFF Condition](https://user-images.githubusercontent.com/101619680/164060481-87914312-d6fd-4e2a-aa54-e712f472d686.png)
 
-# 2 ON Mode
-![ON mode](https://user-images.githubusercontent.com/101619680/163847079-d9a78ba4-7899-45ad-93f1-b6300b8c6f01.png)
+# ON Mode
+![ON Condition](https://user-images.githubusercontent.com/101619680/164060590-0554da1e-01ba-4207-98c6-1f507f469939.png)
+
 
 
