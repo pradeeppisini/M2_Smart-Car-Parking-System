@@ -1,4 +1,4 @@
-# M2_Door Sensor
+# M2_atmega328p-Door-sensor
 
 @ m2_Door Sensor
 
