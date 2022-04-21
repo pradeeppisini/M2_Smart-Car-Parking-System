@@ -11,6 +11,8 @@
 ![door sensor State transition diagram](https://user-images.githubusercontent.com/101619680/164385979-a8d1f432-e997-4fbd-8711-cf8c1761abd5.png)
 
 # SCHEMATIC DIAGRAM:
+![OFF MODE](https://user-images.githubusercontent.com/101619680/164448877-76f9a6a3-5de5-4783-82ee-15f5670a1990.png)
+
 
 
 
