@@ -10,6 +10,8 @@
 # STATE TRANSISTION DIAGRAM:
 ![door sensor State transition diagram](https://user-images.githubusercontent.com/101619680/164385979-a8d1f432-e997-4fbd-8711-cf8c1761abd5.png)
 
+# SCHEMATIC DIAGRAM:
+![ON Condition](https://user-images.githubusercontent.com/101619680/164386291-5192d8ed-0744-4d7a-99f4-e2bca0e2e879.png)
 
 
 
