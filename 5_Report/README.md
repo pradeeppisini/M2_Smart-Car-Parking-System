@@ -1,5 +1,5 @@
 # OBJECTIVE OF THIS PROJECT:
-An Automatic Door Opener System is a simple project based on PROXIMITY Sensor and atmega328p, which automatically opens and closes the door by detecting a person or object.
+An  Door Opener System is a simple project based on PROXIMITY Sensor and atmega328p, which automatically opens and closes the door by detecting a person or object.
 
 # INTRODUCTION:
 The door sensor is an essential component used in-home security system.When someone tries to open the door then these parts will get separated and breaks the circuit, So the control panel will activate to generate an alarm or blink an LED bulb.
