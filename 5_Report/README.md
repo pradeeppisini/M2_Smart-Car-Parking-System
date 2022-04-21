@@ -79,3 +79,9 @@ Based on the security system, we can able to modify the type of alert we get onc
  * SENSOR DIS CONNECTION.
  * FAILURE OF THE COMPONENTS.
  * MORE POWER CONSUMPTION.
+# OUTPUTS:
+# * OFF CONDITION
+![OFF MODE](https://user-images.githubusercontent.com/101619680/164508488-3ddbe5f8-25fd-4cb8-9f19-af29bcad3520.png)
+# * ON CONDITION:
+![ON MODE](https://user-images.githubusercontent.com/101619680/164508574-bc06b492-6e78-4a3a-8c7f-2e2f57b109c1.png)
+
