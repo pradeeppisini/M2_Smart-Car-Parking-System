@@ -14,10 +14,8 @@
 
 # In Action 
 # OFF Condition:
-![OFF Condition](https://user-images.githubusercontent.com/101619680/164059945-7e0fc8ea-7887-434c-9610-427de65279e3.png)
 
 # ON Condition:
-![ON Condition](https://user-images.githubusercontent.com/101619680/164060116-89d296cd-ed18-4446-aad8-d676202b788c.png)
 
 
 
