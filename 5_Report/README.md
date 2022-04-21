@@ -28,6 +28,28 @@ Based on the security system, we can able to modify the type of alert we get onc
 1. A door sensor lets you know if someone enters your house.
 2. You can also set it to emit an alarm that deters someone from entering.
 
+# HIGH LEVEL REQUIREMENTS:
+[High Level Requirements.pdf](https://github.com/pradeeppisini/M2_atmega328p-Door-sensor/files/8532758/High.Level.Requirements.pdf)
+
+# LOW LEVEL REQUIREMENTS:
+[Low level requirements.pdf](https://github.com/pradeeppisini/M2_atmega328p-Door-sensor/files/8532759/Low.level.requirements.pdf)
+
+# BLOCK DIAGRAM:
+![Door Sensor block diagram](https://user-images.githubusercontent.com/101619680/164507675-d156a31e-8f50-4ffb-8da7-e5534afe5c59.png)
+
+# FLOWCHART:
+![Door Sensor FlowChart](https://user-images.githubusercontent.com/101619680/164507745-fe626db9-34a0-4a09-95d1-2ed52611bb03.png)
+
+# DATA FLOW TRANSISTION:
+![Door sensor data flow transistion](https://user-images.githubusercontent.com/101619680/164507832-cf69c8c4-69f2-4825-8b80-aa7a99e8c8bf.png)
+
+# STATE TRANSITION DIAGRAM:
+![door sensor State transition diagram](https://user-images.githubusercontent.com/101619680/164507934-3b68fd68-57d8-4db0-b40c-68f44f0e8fec.png)
+
+# SCHEMATIC DIAGRAM:
+![OFF MODE](https://user-images.githubusercontent.com/101619680/164508051-ddaa771a-f201-497c-8ac5-21431f15e683.png)
+
+
 # 4W & H  (WHO,WHAT,WHEN,WHERE,HOW)
 
 # * WHO:
