@@ -14,8 +14,10 @@
 
 # In Action 
 # OFF Condition:
+![OFF MODE](https://user-images.githubusercontent.com/101619680/164429178-413942b4-00af-4ce3-b180-11ba428f9e31.png)
 
 # ON Condition:
+![ON MODE](https://user-images.githubusercontent.com/101619680/164429200-f6f292b7-ab8c-40e1-8342-5619388ee2e3.png)
 
 
 
