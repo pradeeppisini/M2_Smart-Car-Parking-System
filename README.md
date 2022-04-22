@@ -10,6 +10,9 @@
 
 # Codacy [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9d87e887143348e19c088d613f0b7009)](https://www.codacy.com/gh/pradeeppisini/M2_atmega328p-Door-sensor/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pradeeppisini/M2_atmega328p-Door-sensor&amp;utm_campaign=Badge_Grade)
 
+# Build on Linux
+
+
 # atmega328p Door Sensor
 
 # In Action 
